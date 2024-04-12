@@ -7,6 +7,7 @@ internal class Program
         Recipe recipe = new Recipe();
         while (true) 
         {
+        //Interface code    
             Console.WriteLine("WELCOME TO THE KITCHEN!!!");
             Console.WriteLine("=========================================");
             Console.WriteLine("Enter 1 to enter recipe details : ");
@@ -16,7 +17,7 @@ internal class Program
             Console.WriteLine("Enter 5 to clear Recipes : ");
             Console.WriteLine("Enter 6 to exit : ");
             Console.WriteLine("=========================================");
-
+//Method code
             string ans = Console.ReadLine();
             switch (ans)
             {
@@ -127,7 +128,7 @@ class Recipe
             number[i] /= 2;
         }
     }
-
+//Clearing code 
     public void Clear()
     {
         ingredient = new String[0];
