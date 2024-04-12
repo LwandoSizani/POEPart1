@@ -1,0 +1,14 @@
+C:\Users\RC_Student_lab\source\repos\ProgIngredient\ProgIngredient\bin\Debug\net8.0\ProgIngredient.exe
+C:\Users\RC_Student_lab\source\repos\ProgIngredient\ProgIngredient\bin\Debug\net8.0\ProgIngredient.deps.json
+C:\Users\RC_Student_lab\source\repos\ProgIngredient\ProgIngredient\bin\Debug\net8.0\ProgIngredient.runtimeconfig.json
+C:\Users\RC_Student_lab\source\repos\ProgIngredient\ProgIngredient\bin\Debug\net8.0\ProgIngredient.dll
+C:\Users\RC_Student_lab\source\repos\ProgIngredient\ProgIngredient\bin\Debug\net8.0\ProgIngredient.pdb
+C:\Users\RC_Student_lab\source\repos\ProgIngredient\ProgIngredient\obj\Debug\net8.0\ProgIngredient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\source\repos\ProgIngredient\ProgIngredient\obj\Debug\net8.0\ProgIngredient.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\source\repos\ProgIngredient\ProgIngredient\obj\Debug\net8.0\ProgIngredient.AssemblyInfo.cs
+C:\Users\RC_Student_lab\source\repos\ProgIngredient\ProgIngredient\obj\Debug\net8.0\ProgIngredient.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\ProgIngredient\ProgIngredient\obj\Debug\net8.0\ProgIngredient.dll
+C:\Users\RC_Student_lab\source\repos\ProgIngredient\ProgIngredient\obj\Debug\net8.0\refint\ProgIngredient.dll
+C:\Users\RC_Student_lab\source\repos\ProgIngredient\ProgIngredient\obj\Debug\net8.0\ProgIngredient.pdb
+C:\Users\RC_Student_lab\source\repos\ProgIngredient\ProgIngredient\obj\Debug\net8.0\ProgIngredient.genruntimeconfig.cache
+C:\Users\RC_Student_lab\source\repos\ProgIngredient\ProgIngredient\obj\Debug\net8.0\ref\ProgIngredient.dll
